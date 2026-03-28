@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
-import { useEffect, useState } from "react";
-import { 
-    Code2, 
-    BarChart3, 
-    Database, 
-    Cloud, 
-    Shield, 
+import { useEffect, useState, type ReactElement } from "react";
+import {
+    Code2,
+    BarChart3,
+    Database,
+    Cloud,
+    Shield,
     Zap,
     LineChart,
     Server
@@ -18,7 +18,7 @@ interface Particle {
     size: number;
     duration: number;
     delay: number;
-    icon: JSX.Element;
+    icon: ReactElement;
     rotation: number;
 }
 
