@@ -1,3 +1,5 @@
+
+
 # SaaSify - Modern SaaS Application Template
 
 Welcome to **SaaSify**, a modern, production-ready SaaS application template built with React, TypeScript, and Tailwind CSS. This template provides everything you need to build a professional SaaS product with best practices, modern features, and a beautiful UI.
@@ -42,12 +44,12 @@ Welcome to **SaaSify**, a modern, production-ready SaaS application template bui
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/saasify.git
+   git clone https://github.com/ashsajal1/react-saas-template.git
    ```
 
 2. **Navigate to project directory**:
    ```sh
-   cd saasify
+   cd react-saas-template
    ```
 
 3. **Install dependencies**:
